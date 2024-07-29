@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5533bc4a.css",
-    "main.js": "/static/js/main.d387d66a.js",
+    "main.css": "/static/css/main.9d3586dd.css",
+    "main.js": "/static/js/main.accded98.js",
     "static/js/453.b61387ed.chunk.js": "/static/js/453.b61387ed.chunk.js",
     "static/media/mars-img.png": "/static/media/mars-img.cbb51a92de8660e71337.png",
     "static/media/footerBg.png": "/static/media/footerBg.7ee4b51c80cee81c31ed.png",
     "static/media/banner.png": "/static/media/banner.eef8cc3cf5418600f3ec.png",
     "static/media/22 (1).gif": "/static/media/22 (1).8bb7d4d4a535d372c273.gif",
-    "static/media/Rectangle.png": "/static/media/Rectangle.3b38624344c9d34f1b82.png",
     "static/media/WhatsApp Image 2024-07-16 at 8.29.10 PM.jpeg": "/static/media/WhatsApp Image 2024-07-16 at 8.29.10 PM.c0b4f4cc1806ee6e7172.jpeg",
     "static/media/Ellipse 2.png": "/static/media/Ellipse 2.292444967828d36a4a24.png",
     "static/media/Ellipse 1.png": "/static/media/Ellipse 1.719bb780604002adc321.png",
     "static/media/IMG_5938.jpeg": "/static/media/IMG_5938.927411c980b36c06a97c.jpeg",
-    "static/media/png": "/static/media/01e7e8e2eabb077347a2c53c1baff2f2.f2b68641d59c1ba8f5d4.png",
     "static/media/MC2.png": "/static/media/MC2.bbb31b4034243622a26c.png",
     "static/media/idk.png": "/static/media/idk.b85bd7e6643f5fd07f82.png",
     "static/media/car.png": "/static/media/car.fb9b6b53c8f5e397b80f.png",
@@ -26,25 +24,21 @@
     "static/media/WhatsApp Image 2024-07-16 at 8.29.10 PM (2).jpeg": "/static/media/WhatsApp Image 2024-07-16 at 8.29.10 PM (2).2d0508e98ef2d9a827bc.jpeg",
     "static/media/image 4.png": "/static/media/image 4.09506257d2cfd368c6be.png",
     "static/media/Frame 773975428.png": "/static/media/Frame 773975428.f0249f0a8aa8232d0083.png",
-    "static/media/Banque_misr.jpg": "/static/media/Banque_misr.66f4a921ff8a3653b7de.jpg",
-    "static/media/Banque-du-Caire-Egypt-40132-1559214734-og.jpeg": "/static/media/Banque-du-Caire-Egypt-40132-1559214734-og.3d370e26506b516c0d1f.jpeg",
     "static/media/Rectangle 512.png": "/static/media/Rectangle 512.8256e8a76835f253a000.png",
     "static/media/Rectangle 5.png": "/static/media/Rectangle 5.fd84e5b75efb63da5716.png",
     "static/media/icon2.png": "/static/media/icon2.ff00f157d4f5697e6cbe.png",
-    "static/media/abu fhabi.jpg": "/static/media/abu fhabi.57187689cb941b58c1f2.jpg",
     "static/media/icon3.png": "/static/media/icon3.c81dca9c95b738449661.png",
     "static/media/icon1.png": "/static/media/icon1.7b896288d85b9fcc25f0.png",
     "static/media/toyota.png": "/static/media/toyota.ce52cd3bfc1519842a8f.png",
     "static/media/image (1).png": "/static/media/image (1).26e4c720f6be599b0fb6.png",
-    "static/media/jpg": "/static/media/a5508f0ab85188212e3d641643102ee4.b442112ff70a96a4ada1.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.5533bc4a.css.map": "/static/css/main.5533bc4a.css.map",
-    "main.d387d66a.js.map": "/static/js/main.d387d66a.js.map",
+    "main.9d3586dd.css.map": "/static/css/main.9d3586dd.css.map",
+    "main.accded98.js.map": "/static/js/main.accded98.js.map",
     "453.b61387ed.chunk.js.map": "/static/js/453.b61387ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5533bc4a.css",
-    "static/js/main.d387d66a.js"
+    "static/css/main.9d3586dd.css",
+    "static/js/main.accded98.js"
   ]
 }
